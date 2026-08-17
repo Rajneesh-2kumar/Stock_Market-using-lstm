@@ -20,4 +20,4 @@ Follow these steps to set up the project:
 
 
 
-Check out our blog: [Stock Price Prediction using Machine Learning with Source Code](https://www.projectpro.io/article/stock-price-prediction-using-machine-learning-project/571) for a detailed explanation of all the sections in this project.
+
